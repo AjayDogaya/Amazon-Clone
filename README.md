@@ -1,1 +1,1 @@
-<h1> creat Amazone web clene </h1>
+<h1> Creat Amazone web clone </h1>
